@@ -1,0 +1,7 @@
+## Interface: 120000, 50503, 11508, 20505
+## Title: Auto UIScale
+## Notes: Automatically sets UI scale based on screen resolution.
+## Author: VreziTW
+## Version: 1.0
+
+AutoUIScale.lua
