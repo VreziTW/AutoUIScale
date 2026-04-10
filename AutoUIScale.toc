@@ -2,6 +2,6 @@
 ## Title: Auto UIScale
 ## Notes: Automatically sets UI scale based on screen resolution.
 ## Author: VreziTW
-## Version: 1.0
+## Version: 1.1
 
 AutoUIScale.lua
