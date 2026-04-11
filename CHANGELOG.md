@@ -1,4 +1,4 @@
-## Version 1.2 [10-04-2026]
+## Version 1.1 [10-04-2026]
 
 Update file for midnight 10.0.5
 
