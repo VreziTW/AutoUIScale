@@ -4,7 +4,7 @@ Update file for midnight 10.0.5
 
 ## Version 1.1 [10-04-2026]
 
-Update file for midnight 10.0.5
+Update file for midnight 10.0.1
 
 ## Version 1.0 [08-04-2026]
 
