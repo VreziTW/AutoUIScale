@@ -11,4 +11,5 @@ end
 -- Register the event for player login
 local frame = CreateFrame("Frame")
 frame:RegisterEvent("PLAYER_LOGIN")
+frame:RegisterEvent("Display_Size_CHANGED")
 frame:SetScript("OnEvent", SetUIScale)
