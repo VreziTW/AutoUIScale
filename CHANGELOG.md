@@ -1,3 +1,7 @@
+## Version 1.3 [16-06-2026]
+
+Update file for Retails 10.0.7
+
 ## Version 1.3 [21-04-2026]
 
 Update file for Mists of Pandaria Classic 5.5.4
