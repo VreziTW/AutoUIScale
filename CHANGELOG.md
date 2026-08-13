@@ -1,3 +1,7 @@
+## Version 1.3 [13-08-2026]
+
+Update file for Retails 10.1.0
+
 ## Version 1.3 [16-06-2026]
 
 Update file for Retails 10.0.7
