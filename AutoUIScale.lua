@@ -3,8 +3,10 @@ local function SetUIScale()
 
     if height <= 1200 then
         UIParent:SetScale(0.71111111111) -- 1080p
-    else
+    elseif height <= 1600 then
         UIParent:SetScale(0.53333333) -- 1440p
+    else
+        UIParent:SetScale(0.58) -- 2160p
     end
 end
 
